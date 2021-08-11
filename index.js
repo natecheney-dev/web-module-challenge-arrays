@@ -106,6 +106,7 @@ Use the removeLastFlavor function below to do the following:
 
 function removeLastFlavor(array){
   array.pop();
+  
   return array;
 }
 removeLastFlavor(originalFlavors);
