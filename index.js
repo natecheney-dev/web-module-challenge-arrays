@@ -108,8 +108,7 @@ function removeLastFlavor(array){
   array.pop();
   return array;
 }
-
-
+removeLastFlavor(originalFlavors);
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 5: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Write a function that returns a flavor at a given index in the array.
